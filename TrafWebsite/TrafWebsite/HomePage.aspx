@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    <table></table><%--Added for Checkin--%>
     </div>
     </form>
 </body>
