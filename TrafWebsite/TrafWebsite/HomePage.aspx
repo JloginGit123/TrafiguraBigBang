@@ -10,7 +10,9 @@
     <form id="form1" runat="server">
     <div>
     <table>
-        <tr></tr>
+        <tr>
+            <td>Help files</td>
+        </tr>
     </table><%--Added for Checkin1234--%>
     </div>
     </form>
