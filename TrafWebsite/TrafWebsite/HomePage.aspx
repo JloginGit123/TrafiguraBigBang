@@ -11,7 +11,7 @@
     <div>
     <table>
         <tr>
-            <td>Help files</td>
+            <td>Help files-defect fix</td>
         </tr>
     </table><%--Added for Checkin1234--%>
     </div>
