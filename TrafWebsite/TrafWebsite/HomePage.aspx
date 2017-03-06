@@ -9,7 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <table></table><%--Added for Checkin--%>
+    <table>
+        <tr></tr>
+    </table><%--Added for Checkin123--%>
     </div>
     </form>
 </body>
