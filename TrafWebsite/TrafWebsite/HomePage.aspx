@@ -13,7 +13,7 @@
         <tr>
             <td>Metrics created-fixed</td> 
         </tr>
-    </table><%--Added for Checkin1234 test 10 Mar--%>
+    </table><%--Added for Checkin1234 test 10 Mar fixing defect--%>
     </div>
     </form>
 </body>
