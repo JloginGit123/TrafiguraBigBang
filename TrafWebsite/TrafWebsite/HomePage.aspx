@@ -13,7 +13,7 @@
         <tr>
             <td>Metrics created-fixed</td> 
         </tr>
-    </table><%--code for creating login credentials--%>
+    </table><%--code for creating login for treasurey app--%>
     </div>
     </form>
 </body>
