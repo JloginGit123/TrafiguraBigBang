@@ -13,7 +13,7 @@
         <tr>
             <td>Metrics created-fixed</td> 
         </tr>
-    </table><%--Code Fix for DEf23--%>
+    </table><%--Code Fix for UST 31--%>
     </div>
     </form>
 </body>
